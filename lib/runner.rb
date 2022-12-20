@@ -14,9 +14,10 @@ class Runner
   end
 end
 
-Runner.run(Day06)
-Runner.run(Day05)
-Runner.run(Day04)
-Runner.run(Day03)
-Runner.run(Day02)
-Runner.run(Day01)
+Runner.run(Day07)
+# Runner.run(Day06)
+# Runner.run(Day05)
+# Runner.run(Day04)
+# Runner.run(Day03)
+# Runner.run(Day02)
+# Runner.run(Day01)
